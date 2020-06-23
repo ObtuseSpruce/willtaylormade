@@ -244,6 +244,7 @@ export default function Content() {
           margin-bottom: 15px;
         }
         .mainpic {
+            margin-top: 2vh;
           border: 5px solid white;
           height: 60vh;
         }

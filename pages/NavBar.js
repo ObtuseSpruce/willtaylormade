@@ -33,11 +33,6 @@ export default function NavBar() {
             <img src="/project.png" className="navicon" alt="about me icon"></img>
           </a>
         </div>
-        <div>
-          <a href="#contact">
-            <img src="/email.png" className="navicon" alt="contact icon"></img>
-          </a>
-        </div>
       </div>
 
       <style jsx>{`
