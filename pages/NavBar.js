@@ -18,7 +18,7 @@ export default function NavBar() {
           </a>
         </div>
         <div>
-          <a href="https://www.linkedin.com/in/williamllapitan" target="_blank">
+          <a href="/resume.pdf" download>
             <img src="/resume.png" className="navicon" alt="resume icon"></img>
           </a>
         </div>

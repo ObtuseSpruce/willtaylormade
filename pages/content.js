@@ -36,10 +36,7 @@ export default function Content() {
         <div className="brandBox">
             <div className="pbrand">
                 <strong>"</strong>
-                <blockquote>  I am a full stack software developer who believes in using my rich and diverse skillset
-                to solve complex problems and change our world for the better. Empathy enriches the
-                technology I create and makes a better product, stronger client relations, and healthier
-                work environments.   </blockquote>
+                <blockquote>I am a full stack software developer who believes in using my rich and diverse skillset to solve complex problems and change our world for the better. Empathy enriches the technology I create, makes a better product, builds stronger client relations, and forms healthier work environments.</blockquote>
                 <strong>"</strong>
             </div>    
         </div>
@@ -60,7 +57,7 @@ export default function Content() {
                                 <p className="listitem">CSS</p>
                                 <p className="listitem">HTML</p>
                                 <p className="listitem">Typescript</p>
-                                <p className="listitem">SQL/Sequepze</p>
+                                <p className="listitem">SQL/Sequelize</p>
                                 <p className="listitem">Git</p>
                                 <p className="listitem">Materialize</p>
                         </div>
@@ -104,7 +101,7 @@ export default function Content() {
             </div>
             <div className="projecttext">
                 <h2>Plan-Ahead</h2>
-                <p>Plan-Ahead is a resource for teachers and students to schedule homework on a calendar. Join a class if your student or create one if you're a teacher.</p>
+                <p>Plan-Ahead is a resource for teachers and students to schedule homework on a calendar. Join a class if you're a student or create one if you're a teacher.</p>
                 <div>
                     <a href="https://pugetsoundclient.herokuapp.com/">
                         <img className="iconimg" src="/heroku.png"></img>
@@ -122,7 +119,7 @@ export default function Content() {
             </div>
             <div className="projecttext">
                 <h2>Donut Dunker</h2>
-                <p>Donut Dunker is small game built for IOS. Tap the screen to get more points then spend them on more donuts!</p>
+                <p>Donut Dunker is small game built for iOS. Tap the screen to get more points then spend them on more donuts!</p>
                 <div>
                     <a href="https://github.com/ObtuseSpruce/DonutDunker">
                         <img className="iconimg" src="/githubwhite.png"></img>
@@ -168,7 +165,7 @@ export default function Content() {
             flex-direction: row;
             justify-content: center;
             align-items: center;
-            background-color: rgba(34, 34, 59, .9);
+            background-color: rgba(34, 34, 59, .85);
             padding: 10px;
             margin-top: 10px;
         }
