@@ -90,6 +90,7 @@ export default function Content() {
                         <a href="https://github.com/ObtuseSpruce/NeighborhoodFarmstand">
                             <img className="iconimg" src="/githubwhite.png"></img>
                         </a>
+                        <p> Built in Express and bootstrap with a SQL database.</p>
                         <p>Express | Bootstrap | EJS</p>
                     </div>
                 </div>
@@ -109,6 +110,7 @@ export default function Content() {
                     <a href="https://github.com/ObtuseSpruce/pugetsound-client">
                         <img className="iconimg" src="/githubwhite.png"></img>
                     </a>
+                    <p>Built in Typescript and React with a NoSQL database.</p>
                     <p>React | Typescript | MongoDB</p>
                 </div>
             </div>
@@ -124,6 +126,7 @@ export default function Content() {
                     <a href="https://github.com/ObtuseSpruce/DonutDunker">
                         <img className="iconimg" src="/githubwhite.png"></img>
                     </a>
+                    <p>Built in React-Native and Firebase for the backend.</p>
                     <p>React-Native | Firebase | React</p>
                 </div>
             </div>
@@ -175,10 +178,8 @@ export default function Content() {
         .abouttext {
             width: 40vw;
         }
-        h1{
-            margin-bottom: -10px 0;
-        }
         .aboutMe{
+            margin-top: -5vh;
             display: flex;
             justify-content: center;
             align-items: center;
