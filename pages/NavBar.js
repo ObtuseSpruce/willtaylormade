@@ -28,6 +28,7 @@ export default function NavBar() {
             <img src="/aboutmeicon.png" className="navicon" alt="about me icon"></img>
           </a>
         </div>
+        
         <div>
           <a href="#projects">
             <img src="/project.png" className="navicon" alt="about me icon"></img>
